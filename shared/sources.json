@@ -16,14 +16,6 @@
     "interval": 600000,
     "title": "最新分享"
   },
-  "zhihu": {
-    "name": "知乎",
-    "type": "hottest",
-    "column": "china",
-    "home": "https://www.zhihu.com",
-    "color": "blue",
-    "interval": 600000
-  },
   "weibo": {
     "title": "实时热搜",
     "name": "微博",
